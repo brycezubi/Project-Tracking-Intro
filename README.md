@@ -23,7 +23,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Design preview for the Project Tracking coding challenge](https://github.com/Orisabiyi/qr-component-code/blob/main/design/desktop-preview.jpg)
+![Design preview for the Project Tracking coding challenge](https://github.com/brycezubi/Project-Tracking-Intro/blob/main/assets/design/desktop-preview.jpg)
 
 ### Links
 
